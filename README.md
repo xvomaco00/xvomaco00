@@ -15,7 +15,7 @@
 - 👋 Hi, I’m @xvomaco00
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on your mom
-- 📫 You can reach me on Discord: ondraid
+- 📫 You can reach me on ondraid@discord
 
 </td>
 <td>
