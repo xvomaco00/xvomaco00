@@ -5,8 +5,8 @@
 </tr>
 <tr>
 <td>
-
-![Profile picture]([https://avatars.githubusercontent.com/u/146869235?v=4.jpg)
+  
+![Profile picture](/assets/profile_picture.jpg)
 
 </td>
 <td>
@@ -19,5 +19,3 @@
 </td>
 </tr>
 </table>
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
